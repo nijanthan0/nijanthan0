@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Impiger Technologies
-- 🌱 I’m currently learning Aws and Block Chain
+- 🔭 I’m currently Searching for job
+- 🌱 I’m currently learning Block Chain and More ML concepts
 - 💬 Ask me about Tech Related
-- 📫 How to reach me: rnijanthanmech@gmail.com
+- 📫 How to reach me: nijanthantechie@gmail.com
 - 😄 Pronouns: No comments simply waste ( Famous comedy dialogue )
 - ⚡ Fun fact: why did smartphone needs it glasses?
 
